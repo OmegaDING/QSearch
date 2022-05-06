@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;swingClasses&apos; to &apos;QSearch_Server/src&apos;&#x0D;&#x0A;- Original project: &apos;QSerach_user&apos;&#x0D;&#x0A;- Destination element: &apos;QSearch_Server/src&apos;&#x0D;&#x0A;- Original element: &apos;QSerach_user/src/swingClasses&apos;" description="Copy package" destination="=QSearch_Server/src" element1="/src&lt;swingClasses" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1620728337515" version="1.0"/>
+</session>
